@@ -17,6 +17,10 @@ Branchを切り替えて、お試しできます。
 2. 「Code」ボタンをクリックし、`Open with Codespaces` を選択。
 3. 自動セットアップが完了した後、Clineの設定画面に移動し、APIキーを登録する。
 
+
+![Selection_999(785)](https://github.com/user-attachments/assets/8c714a5a-750f-4874-bc10-2c7426d42328)
+
+
 ## English
 
 ### Overview
