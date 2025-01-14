@@ -11,6 +11,7 @@
 		"ghcr.io/larsnieuwenhuizen/features/neovim:0": {},
 		"ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2":{},
 	},
+	"postCreateCommand": "npm install",
 	"customizations": {
 		"vscode": {
 			"extensions": [
