@@ -19,7 +19,8 @@
 				"RooVeterinaryInc.roo-cline"
 			]
 		}
-	}
+	},
+	"workspaceFolder": "/workspaces/cline-dev-environment/my-remix-app"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
