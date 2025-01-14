@@ -14,9 +14,8 @@ Branchを切り替えて、お試しできます。
 
 ### 使用方法
 1. 必要に応じて、`next.js` または `remix` ブランチに切り替える。
-2. このリポジトリをフォークする。
-3. フォークしたリポジトリを開き、「Code」ボタンをクリックし、`Open with Codespaces` を選択。
-4. 自動セットアップが完了した後、Clineの設定画面に移動し、APIキーを登録する。
+2. 「Code」ボタンをクリックし、`Open with Codespaces` を選択。
+3. 自動セットアップが完了した後、Clineの設定画面に移動し、APIキーを登録する。
 
 ## English
 
@@ -31,6 +30,5 @@ This repository is a template for easily testing **cline** on GitHub Codespaces.
 
 ### How to Use
 1. Switch to the `next.js` or `remix` branch as needed.
-2. Fork this repository.
-3. Open the forked repository, click the "Code" button, and select `Open with Codespaces`.
-4. Once the automatic setup is complete, navigate to the Cline settings and register your API key.
+2. click the "Code" button, and select `Open with Codespaces`.
+3. Once the automatic setup is complete, navigate to the Cline settings and register your API key.
